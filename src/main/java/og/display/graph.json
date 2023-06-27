@@ -1,0 +1,156 @@
+{
+    "name": "name",
+    "properties": [
+        {
+            "property1": "value1",
+            "property2": "value2"
+        }
+    ],
+    "vertices": [
+        {
+            "id": "0",
+            "properties":
+                {
+                    "color": "#0369be",
+                    "label": "0"
+                }
+            
+        },
+        {
+            "id": "1",
+            "properties":
+                {
+                    "color": "#0369be",
+                    "label": "1"
+                }
+        
+        },
+        {
+            "id": "2",
+            "properties":
+                {
+                    "color": "#0369be",
+                    "label": "2"
+                }
+    
+        },
+        {
+            "id": "3",
+            "properties":
+                {
+                    "color": "#13579b",
+                    "label": "3"
+                }
+        
+        },
+        {
+            "id": "4",
+            "properties":
+                {
+                    "color": "#abcdef",
+                    "label": "4"
+                }
+        
+        },
+        {
+            "id": "5",
+            "properties":
+                {
+                    "property1": "value1",
+                    "property2": "value2"
+                }
+        
+        },
+        {
+            "id": "6",
+            "properties":
+                {
+                    "property1": "value1",
+                    "property2": "value2"
+                }
+        
+        },
+        {
+            "id": "7",
+            "properties":
+                {
+                    "property1": "value1",
+                    "property2": "value2"
+                }
+        
+        },
+        {
+            "id": "8",
+            "properties":
+                {
+                    "property1": "value1",
+                    "property2": "value2"
+                }
+        
+        },
+        {
+            "id": "9",
+            "properties":
+                {
+                    "property1": "value1",
+                    "property2": "value2"
+                }
+        
+        }
+
+    ],
+    "arcs": [
+        {
+            "id": 5154749401085475000,
+            "from": 0,
+            "to": 1,
+            "properties": {
+                "#class": "java.util.HashMap",
+                "arrowShape": "none",
+                "color": "#cf2bdb",
+                "label": "0 to 1",
+                "style": "dashed",
+                "width": 2
+            }
+        },
+        {
+            "id": 5154749401085475000,
+            "from": 0,
+            "to": 2,
+            "properties": {
+                "#class": "java.util.HashMap",
+                "arrowShape": "none",
+                "color": "#ca2b5b",
+                "label": "0 to 2",
+                "style": "dashed",
+                "width": 8
+            }
+        },
+        {
+            "id": 5154749401085475000,
+            "from": 0,
+            "to": 3,
+            "properties": {
+                "#class": "java.util.HashMap",
+                "arrowShape": "none",
+                "color": "#cf23d5",
+                "label": "0 to 3",
+                "style": "dashed",
+                "width": 4
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "id",
+            "properties": [
+                {
+                    "property1": "value1",
+                    "property2": "value2"
+                }
+            ],
+            "ends":[0, 1]
+        }
+    ],
+    "nbChanges": 0
+}
